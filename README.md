@@ -1,7 +1,7 @@
 # HelloWorld
 My first repository!
 
-![Picture](042.jpg)
+! [IMG](042.jpg)
 # Life of this Programmer
 Hello! My name is Sara Verma and I love programming!
 # My Hobbies 
